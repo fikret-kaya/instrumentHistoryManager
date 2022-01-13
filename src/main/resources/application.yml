@@ -1,0 +1,9 @@
+server:
+  port: 9000
+
+partner:
+  url: localhost
+  port: 8032
+  insEndpoint: instruments
+  quoteEndpoint: quotes
+
